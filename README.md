@@ -44,7 +44,7 @@ Example:
 CLAUDE_PROMT.md
 ```
 
-![[agents.jpg]]
+![AI Agents](https://github.com/aagern/TGChannels2Md/blob/main/agents.jpg) 
 
 ### Options
 
