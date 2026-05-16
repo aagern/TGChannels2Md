@@ -22,11 +22,28 @@ https://t.me/s/prompt_design
 # comments and blank lines are ignored
 ```
 
-## Usage
+## Quick Start
 
 ```bash
 python -m scraper.cli --days <N> [options]
 ```
+
+But better run a batch on many channels simultaneously:
+
+```bash
+./DAY2.sh # 2 days of news
+# or
+./WEEK.sh # 7 days of news
+```
+
+Then use AI to summarize the news by rules in each target folder (rules.md file is created by AI-Analysis of a 2-Week scope of news for each category individually.
+
+Example: 
+
+```
+CLAUDE_PROMT.md
+```
+
 
 ### Options
 
